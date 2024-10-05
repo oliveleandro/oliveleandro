@@ -1,6 +1,8 @@
 ### Olá! 👋 
 
-Me chamo Leandro, trabalho como desenvolvedor de software 💻 há mais de 10 anos e hoje atuo como Tech Lead em uma grande consultória de São Paulo.
+Atuo como líder técnico há cerca de dois anos em uma equipe multidisciplinar de desenvolvimento de software. Minha função é garantir qualidade técnica e orientar a equipe de desenvolvimento e qualidade de software, automatizar processos, acompanhar implantações em ambiente produtivo, facilitar a
+comunicação entre as diferentes áreas, especialmente entre as equipes de negócios e técnicas.
+Anteriormente em minha carreira, acumulei experiência como desenvolvedor fullstack, atuando com uma variedade de tecnologias, como; Cobol, Java, NodeJs, Angular, HTML5, CSS, Bootstrap e JavaScript, bancos de dados relacionais e não relacionais.
 
 ##
   
